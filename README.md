@@ -26,7 +26,6 @@ Developer from Romania, building games, web apps and tools, and currently going 
 - Beej's Guide to C Programming
 - A Tour of C++
 - Introduction to Algorithms (4th Ed.)
-- 
 ### Contact
 
 📫 [nitu@beniamin.dev](mailto:nitu@beniamin.dev) · 🌐 [beniamin.dev](https://beniamin.dev)
